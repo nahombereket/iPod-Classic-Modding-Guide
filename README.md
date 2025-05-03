@@ -11,7 +11,7 @@ This guide will walk you through multiple ways to upgrade your iPod Classic with
 
 ## Table of Contents
 - [Recommended iPod Models](#recommended-ipod-models)
-- [Tools & Supplies Guide](docs/tools-and-supplies.md)
+- [Tools & Supplies Guide](docs/tools-and-supplies)
 - [Mod Configurations](#mod-configurations)
 - [Where to Buy Parts](#where-to-buy-parts)
 - [Credits and Resources](#credits-and-resources)
