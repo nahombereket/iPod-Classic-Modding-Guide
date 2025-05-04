@@ -1,4 +1,4 @@
-# iPod-Classic-Modding-Guide (⚠️ UNFINISHED)
+# iPod Classic Modding Guide (⚠️ UNFINISHED)
 A comprehensive guide to ultra-modding the iPod Classic - from batteries and drives to Bluetooth and USB-C.
 
 This guide will walk you through multiple ways to upgrade your iPod Classic with:
