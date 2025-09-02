@@ -102,13 +102,13 @@ Understand why mods work (e.g., 32-bit FAT32 limits 2TB on stock OS).
 - **Battery Basics**: Swap for 3000–6000mAh; thicker backs needed for larger ones.  
 
 Diagram:  
-```svg
+
 <svg width="400" height="200" xmlns="http://www.w3.org/2000/svg">
   <rect x="10" y="10" width="380" height="180" fill="#f0f0f0" stroke="#000"/>
   <text x="200" y="100" text-anchor="middle">iPod Architecture: HDD → iFlash → SD Cards</text>
   <!-- Add hotspots for interactivity -->
 </svg>
-```
+
 *Interactive SVG: Hover/click components for explanations (embed in GitHub Pages).*
 
 ## Tools and Supplies
