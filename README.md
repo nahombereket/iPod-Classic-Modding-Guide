@@ -1,4 +1,5 @@
 # 🎧 The Ultimate iPod Modding Guide (2025 Edition)
+## ⚠️ 🚧 Under Construction
 
 ![Hero Image: A lineup of modded iPods with glowing screens and custom parts](https://via.placeholder.com/1200x400?text=Ultimate+iPod+Modding+Guide+2025)  
 *Image: A vibrant diagonal arrangement of iPod Classics from 1st to 7th Gen, showcasing mods like clear cases, SSD upgrades, and Bluetooth integrations. Inspired by community designs from r/ipod and Ellie Huxtable's project.*
