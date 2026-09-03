@@ -144,6 +144,8 @@ Aim for 3000mAh+ for 20–50 hours playback.
 - Fit: Slim 7th Gen needs Quad + thin battery.  
 - Caution: Don't puncture old battery!
 
+Useful tool: [iPod battery capacity calculator](https://moonlit.market/blogs/guides/ipod-battery-capacity-calculator)
+
 ### Connectivity Mods (Bluetooth, USB-C, AirTag)
 - Bluetooth: Moonlit V2 board for wireless audio.  
 - USB-C: Solder adapter for modern charging.  
@@ -203,7 +205,8 @@ Callouts for warnings:
 
 - **Elite Obsolete Electronics**: Batteries, shells.  
 - **iFlash.xyz**: Adapters.  
-- **eBay/AliExpress**: Budget options (vet sellers).  
+- **eBay/AliExpress**: Budget options (vet sellers).
+- **moonlit.market**: Quality-checked parts with clear condition disclosures.
 
 ## Community Resources and Credits
 
