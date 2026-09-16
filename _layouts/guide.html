@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="A practical, visual, safety-first guide to restoring and modifying classic iPods.">
+  <title>{{ page.title | default: site.title }} · {{ site.title }}</title>
+  <link rel="stylesheet" href="{{ '/docs/assets/guide.css' | relative_url }}">
+</head>
+<body>
+  <header class="site-nav">
+    <a class="brand" href="{{ '/index.html' | relative_url }}">iPod Modding Guide</a>
+    <nav>
+      <a href="{{ '/docs/index.html' | relative_url }}">Start here</a>
+      <a href="{{ '/docs/watch.html' | relative_url }}">Watch &amp; Learn</a>
+      <a href="{{ '/docs/builds.html' | relative_url }}">Builds</a>
+      <a href="{{ '/docs/troubleshooting.html' | relative_url }}">Troubleshooting</a>
+      <a href="{{ '/docs/find.html' | relative_url }}">Find</a>
+      <a href="{{ '/docs/General/identify-your-ipod.html' | relative_url }}">Identify</a>
+    </nav>
+  </header>
+  <main class="markdown-page">{{ content }}</main>
+</body>
+</html>
